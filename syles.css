@@ -1,0 +1,32 @@
+* {
+  color: #eddac4
+}
+
+body {
+  background-color: #391B06
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#title-header {
+  text-decoration: underline;
+  font-size: 72px;
+  text-align: center
+}
+
+#link-paragraph {
+  font-weight: bold;
+  
+}
+
+#sandworm-pic {
+  width: 300px
+}
+
+#travel-poster {
+  width: 300px
+}
